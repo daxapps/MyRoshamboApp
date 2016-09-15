@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  BeginMatchVC.swift
 //  MyRoshamboApp
 //
 //  Created by Jason Crawford on 9/15/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class BeginMatchVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
